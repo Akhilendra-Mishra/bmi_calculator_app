@@ -19,6 +19,11 @@ Key Features:
 
       BMI = weight/(height)(height)
    
+3. Background color changes based on the BMI result:
+     Red for overweight.
+     Orange for underweight.
+     Green for healthy weight.
+
 4. Technologies Used:
 
    Flutter & Dart: Utilized Flutter for cross-platform development, ensuring smooth performance and a native look and feel on both Android and iOS devices.
